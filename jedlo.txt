@@ -1,1 +1,2 @@
 "Menu: Polievka, svieckova, tiramisu" 
+"Pridane jedlo: rezen" 

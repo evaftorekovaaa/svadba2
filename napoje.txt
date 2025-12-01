@@ -1,1 +1,2 @@
 "Napoje: v¡no,coca-cola, voda" 
+"Pridana kofola" 
